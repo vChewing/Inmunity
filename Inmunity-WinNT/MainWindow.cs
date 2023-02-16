@@ -3,7 +3,10 @@ using System.Threading;
 
 namespace Inmunity_WinNT {
 public partial class MainWindow : Form {
-  public MainWindow() { InitializeComponent(); }
+  public MainWindow() { 
+    InitializeComponent();
+    this.MinimumSize = new System.Drawing.Size(320, 240);
+  }
 
   private void btnInmunify_Click(object sender, EventArgs e) {
     btnInmunify.Enabled = false;

@@ -21,7 +21,7 @@ struct ContentView: View {
         }
       }.disabled(disabled)
     }
-    .padding()
+    .padding().frame(minWidth: 320, minHeight: 240)
   }
 }
 
