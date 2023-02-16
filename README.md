@@ -4,6 +4,8 @@
 
 該工具將一段文字整理成 INMU 格式，方便 Sibelius / Dorico / Finale 中文歌詞製作。
 
+> 為了防止歧義，這裡聲明：本軟體命名「Inmunity」當中的「Inmu」為「韻夢」一詞的日語讀音。
+
 ## Windows 版本
 
 支援 Windows 7 / 8 / 10 的 AMD 64 位元版本（市售電腦 CPU 應該都能跑），要求安裝 .NET 6。但敝倉庫所提供之程式碼可用於建置 32 位元版本、建置 ARM CPU 專用版本。
