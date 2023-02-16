@@ -15,7 +15,7 @@ internal struct Utils {
                                                     "」』》”’，。：:,.)）");
   private static String[] NewLineSymbols = { "\n",     "\r",     "\u000b",
                                              "\u000c", "\u0085", "\u2028",
-                                             "\u2029" };
+                                             "\u2029", "\r\n" };
   public static String Inmunify(String raw) {
     if (String.IsNullOrEmpty(raw))
       return raw;
