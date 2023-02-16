@@ -12,7 +12,7 @@ using System.Globalization;
 namespace Inmunity_WinNT {
 internal struct Utils {
   private static (String, String) SpecialSymbols = ("（(「『《“‘",
-                                                    "」』》”’，。：:,.)）");
+                                                    "」』》”’，。：:,.)）！!");
   private static String[] NewLineSymbols = { "\n",     "\r",     "\u000b",
                                              "\u000c", "\u0085", "\u2028",
                                              "\u2029", "\r\n" };

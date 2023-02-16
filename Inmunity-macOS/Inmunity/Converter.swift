@@ -5,7 +5,7 @@
 import Cocoa
 
 public enum Utils {
-  static let specialSymbols: (String, String) = ("（(「『《“‘", "」』》”’，。：:,.)）")
+  static let specialSymbols: (String, String) = ("（(「『《“‘", "」』》”’，。：:,.)）！!")
 
   public static func inmunify(_ raw: String) -> String {
     let result = NSMutableString()

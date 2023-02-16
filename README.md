@@ -2,7 +2,7 @@
 
 (c) 2021 and onwards The vChewing Project (MIT License).
 
-該工具將一段文字整理成 INMU 格式，方便 Sibelius / Dorico 中文歌詞製作。
+該工具將一段文字整理成 INMU 格式，方便 Sibelius / Dorico / Finale 中文歌詞製作。
 
 ## Windows 版本
 
